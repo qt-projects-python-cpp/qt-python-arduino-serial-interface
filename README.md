@@ -1,4 +1,4 @@
-# qt-python-arduino-serial-interface
+# Qt Python Arduino Serial interface
 
 A cross-platform desktop application (using Qt for Python / C++ and Arduino) that enables serial communication between a PC and an Arduino device, with a GUI interface to monitor/send data.
 
